@@ -6,7 +6,7 @@ Replace url with your preferred video url then run the script.
 The video will be downloaded in the same folder that contains this file
 """
 
-url = 'https://www.youtube.com/watch?v=UprcpdwuwCg&list=RDUKunvvN2iCk&index=15'
+url = 'https://www.youtube.com/watch?v=CTpxQVUEMeI'
 
 my_video = YouTube(url)
 
